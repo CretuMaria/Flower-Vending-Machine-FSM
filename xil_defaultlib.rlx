@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../proiect_scid_automat_flori.srcs/sources_1/imports/Proiect 3 - automat de cafea/deBouncer.vhd" \
+"../../../../proiect_scid_automat_flori.srcs/sources_1/imports/Proiect 3 - automat de cafea/driver7seg.vhd" \
+"../../../../proiect_scid_automat_flori.srcs/sources_1/new/fsm_auto_flori.vhd" \
+
+# Do not sort compile order
+nosort
